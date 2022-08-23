@@ -4,8 +4,9 @@
     "src": "resources/js/app.js",
     "isEntry": true
   },
-  "resources/css\\app.css": {
+  "resources/css/app.css": {
     "file": "assets/app.ff46d48d.css",
-    "src": "resources/css\\app.css"
+    "src": "resources/css/app.css",
+    "isEntry": true
   }
 }
